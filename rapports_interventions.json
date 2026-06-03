@@ -1,0 +1,25 @@
+[
+  {
+    "Date": "2026-06-02",
+    "Centre": "AIT ATTAB",
+    "Ouvrage": "R600 Ait Attab",
+    "Designation": "Station de pompage",
+    "Type_equipement": "Station",
+    "Latitude": 32.0,
+    "Longitude": -6.5,
+    "Puissance_kW": 25.0,
+    "Debit_l_s": 15.0,
+    "Nb_groupes": 5,
+    "Machine": "SR2",
+    "Type_intervention": "Corrective",
+    "Operation": "VNH",
+    "Description": "XC N N",
+    "Duree_heures": 2.5,
+    "Pieces_Dhs": 200.0,
+    "Main_oeuvre_Dhs": 300.0,
+    "Frais_deplacement_Dhs": 150.0,
+    "Frais_divers_Dhs": 150.0,
+    "Total_Dhs": 800.0,
+    "Statut": "Termin\u00e9"
+  }
+]

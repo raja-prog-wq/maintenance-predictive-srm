@@ -1,0 +1,102 @@
+[
+  {
+    "Machine": "SR2",
+    "Centre": "OUAOUIZEGHT",
+    "Type": "Pompe",
+    "Dernier_controle": "2026-04-19 10:03:24.715367",
+    "Prochain_controle": "2026-05-17 10:03:24.715407",
+    "Frequence_controle_jours": 30,
+    "Duree_vie_estim\u00e9e_heures": 5000,
+    "Heures_fonctionnement": 3200
+  },
+  {
+    "Machine": "SR AIT OUAZOUD",
+    "Centre": "azilal",
+    "Type": "Station",
+    "Dernier_controle": "2026-04-19 10:03:24.715385",
+    "Prochain_controle": "2026-05-17 10:03:24.715410",
+    "Frequence_controle_jours": 60,
+    "Duree_vie_estim\u00e9e_heures": 8000,
+    "Heures_fonctionnement": 4500
+  },
+  {
+    "Machine": "F974/45bis",
+    "Centre": "fom jemaa",
+    "Type": "GEP",
+    "Dernier_controle": "2026-04-19 10:03:24.715389",
+    "Prochain_controle": "2026-05-17 10:03:24.715412",
+    "Frequence_controle_jours": 90,
+    "Duree_vie_estim\u00e9e_heures": 10000,
+    "Heures_fonctionnement": 8000
+  },
+  {
+    "Machine": "forage issouka",
+    "Centre": "beni ayat",
+    "Type": "Forage",
+    "Dernier_controle": "2026-04-19 10:03:24.715391",
+    "Prochain_controle": "2026-05-17 10:03:24.715415",
+    "Frequence_controle_jours": 30,
+    "Duree_vie_estim\u00e9e_heures": 6000,
+    "Heures_fonctionnement": 2800
+  },
+  {
+    "Machine": "SR ZIZ GAZ",
+    "Centre": "imdahen",
+    "Type": "Station",
+    "Dernier_controle": "2026-04-19 10:03:24.715393",
+    "Prochain_controle": "2026-05-17 10:03:24.715417",
+    "Frequence_controle_jours": 60,
+    "Duree_vie_estim\u00e9e_heures": 7000,
+    "Heures_fonctionnement": 5000
+  },
+  {
+    "Machine": "imchihen",
+    "Centre": "foum jemaa",
+    "Type": "Pompe",
+    "Dernier_controle": "2026-04-19 10:03:24.715396",
+    "Prochain_controle": "2026-06-03 10:03:24.715420",
+    "Frequence_controle_jours": 30,
+    "Duree_vie_estim\u00e9e_heures": 5000,
+    "Heures_fonctionnement": 3100
+  },
+  {
+    "Machine": "SR AMZANE",
+    "Centre": "azilal",
+    "Type": "Station",
+    "Dernier_controle": "2026-04-19 10:03:24.715398",
+    "Prochain_controle": "2026-06-03 10:03:24.715423",
+    "Frequence_controle_jours": 90,
+    "Duree_vie_estim\u00e9e_heures": 8000,
+    "Heures_fonctionnement": 4200
+  },
+  {
+    "Machine": "Step",
+    "Centre": "Azilal",
+    "Type": "Step",
+    "Dernier_controle": "2026-04-19 10:03:24.715399",
+    "Prochain_controle": "2026-06-03 10:03:24.715426",
+    "Frequence_controle_jours": 60,
+    "Duree_vie_estim\u00e9e_heures": 9000,
+    "Heures_fonctionnement": 3500
+  },
+  {
+    "Machine": "RV400",
+    "Centre": "AZILAL",
+    "Type": "Reservoir",
+    "Dernier_controle": "2026-04-19 10:03:24.715401",
+    "Prochain_controle": "2026-06-03 10:03:24.715427",
+    "Frequence_controle_jours": 180,
+    "Duree_vie_estim\u00e9e_heures": 12000,
+    "Heures_fonctionnement": 9000
+  },
+  {
+    "Machine": "RV1000",
+    "Centre": "AZILAL",
+    "Type": "Reservoir",
+    "Dernier_controle": "2026-04-19 10:03:24.715403",
+    "Prochain_controle": "2026-06-03 10:03:24.715430",
+    "Frequence_controle_jours": 180,
+    "Duree_vie_estim\u00e9e_heures": 12000,
+    "Heures_fonctionnement": 6000
+  }
+]
