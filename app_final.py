@@ -645,8 +645,8 @@ if not st.session_state.logged_in:
             st.markdown("<h2 style='text-align: center;'>Connexion</h3>", unsafe_allow_html=True)
             st.markdown("<h4 style='text-align: center;'>SRM-Maintenance Prédictive  </h4>", unsafe_allow_html=True)
             
-            username = st.text_input("Identifiant", placeholder="admin")
-            password = st.text_input("Mot de passe", type="password", placeholder="••••••••")
+            username = st.text_input("Identifiant", placeholder="Nom d'utilisateur")
+            password = st.text_input("Mot de passe", type="password", placeholder="Mot de passe")
             
             col_btn1, col_btn2 = st.columns(2)
             with col_btn1:
