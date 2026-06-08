@@ -912,14 +912,16 @@ with st.sidebar:
         st.session_state.show_change_password = False
         st.rerun()
     
-    now = datetime.now()
+    maroc = pytz.timezone("Africa/Casablanca")
+    now = datetime.now(maroc)
     st.markdown(f'<p style="font-size:0.7rem;color:#94a3b8;text-align:center;margin-top:0.5rem">{now.strftime("%H:%M:%S")}</p>', unsafe_allow_html=True)
 
 
 # ============================================================================
 # EN-TÊTE (avec date en français)
 # ============================================================================
-now = datetime.now()
+maroc = pytz.timezone("Africa/Casablanca")
+now = datetime.now(maroc)
 
 # Dictionnaires pour la conversion en français
 jours_fr = {
